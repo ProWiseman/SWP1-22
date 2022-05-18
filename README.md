@@ -1,2 +1,3 @@
-20223164	Kim YoungSeok
+20223164 Kim Youngseok
+
 Kookmin Univ. AI
